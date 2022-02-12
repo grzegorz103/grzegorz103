@@ -1,4 +1,4 @@
-# Hi there 👋 [![](https://img.shields.io/badge/E_mail-Send-informational&logo=Java&logoColor=white&color=2bbc8a?style=flat-square&logo=appveyor)](mailto:grzesiek555_12@outlook.com)
+# Hi there 👋 [![](https://img.shields.io/badge/E_mail-Send-informational&logo=Java&logoColor=white&color=2bbc8a?style=flat-square&logo=appveyor)](mailto:grzegorz6384@gmail.com)
 
 
 ## 🔧 Technologies & Tools
